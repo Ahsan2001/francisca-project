@@ -1,0 +1,162 @@
+@media (max-width: 1199.98px) {}
+
+@media (max-width: 1024px) {
+    .main-header ul li {
+        padding: 0 10px 20px 10px;
+    }
+
+    ul.nav-links li a {
+        font-size: 14px;
+    }
+
+    .logo-section ul .quote {
+        padding: 7px 10px;
+    }
+}
+
+
+@media (max-width: 991.98px) {
+    ul.nav-links li a {
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width: 768px) {
+
+    .desktop-header {
+        display: none;
+    }
+
+    .mobile-menu {
+        display: block;
+    }
+
+    .main-footer h4 {
+        padding: 20px 0 5px;
+    }
+
+    .main-footer {
+        padding: 40px 0;
+    }
+
+    .footer-border {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .footer-border ul {
+        padding: 15px 0;
+    }
+
+    .nivoSlider img {
+        height: 100% !important;
+    }
+
+    .nivo-main-image {
+        height: 100% !important;
+    }
+
+    .nivoSlider {
+        height: 400px;
+    }
+
+    .nivoSlider img {
+        height: 400px;
+    }
+}
+
+
+@media (max-width: 575.98px) {
+    h1.resource-guide-h1::before {
+        display: none;
+    }
+
+    section .resources-card-main img {
+        height: 340px;
+    }
+
+    h1.white-paper::before {
+        display: none;
+    }
+
+    .govt-banner h1 {
+        font-size: 55px;
+        margin-top: 20.5%;
+    }
+
+    .resources-main-heading h1 {
+        font-size: 36px;
+    }
+
+    .guide-page-slider {
+        margin: 1rem 0 6rem;
+    }
+
+    section.resources-page-section {
+        padding: 40px 0;
+    }
+
+    section .resources-card-main h2 a {
+        font-size: 22px;
+    }
+
+    span.my-next-button5 {
+        font-size: 25px;
+        top: 98%;
+    }
+
+    span.my-prev-button5 {
+        font-size: 25px;
+        top: 98%;
+    }
+
+    .my-owl-nav2 {
+        top: 23%;
+        right: 4%;
+    }
+
+    .application-section .black {
+        height: 200px;
+    }
+
+    .application-section .apps-slider .dh-container {
+        width: 400px;
+        height: 200px;
+    }
+
+    .service-content h5 {
+        font-size: 22px;
+    }
+
+    .nivo-caption h2 span {
+        font-size: 35px;
+    }
+
+    .application-section .black h5 {
+        font-size: 25px;
+    }
+
+    .nivo-caption p {
+        padding-bottom: 15px;
+        font-size: 18px;
+    }
+
+    .nivo-caption h2 {
+        font-size: 45px;
+        line-height: 45px;
+    }
+
+    .nivo-caption {
+        left: 4%;
+    }
+
+
+    .service-content {
+        left: 16%;
+    }
+
+
+
+
+}
